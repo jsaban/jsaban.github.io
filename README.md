@@ -1,2 +1,1 @@
-# jsaban.github.io
-Personal homepage
+# Personal homepage
